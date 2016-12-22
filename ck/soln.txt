@@ -1,0 +1,62 @@
+lvlq(1, 1) = "Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either."
+lvlq(1, 2) = "The pursuit of truth and beauty is a sphere of activity in which we are permitted to remain children all our lives."
+lvlq(1, 3) = "Any man who reads too much and uses his own brain too little falls into lazy habits of thinking."
+lvlq(1, 4) = "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."
+lvlq(1, 5) = "If people are good only because they fear punishment, and hope for reward, then we are a sorry lot indeed"
+
+lvla(1, 1) = "Zmblmv dsl wlvhm'g gzpv gifgs hvirlfhob rm hnzoo nzggvih xzmmlg yv gifhgvw rm ozitv lmvh vrgsvi."
+lvla(1, 2) = "Gsv kfihfrg lu gifgs zmw yvzfgb rh z hksviv lu zxgrergb rm dsrxs dv ziv kvinrggvw gl ivnzrm xsrowivm zoo lfi orevh."
+lvla(1, 3) = "Zmb nzm dsl ivzwh gll nfxs zmw fhvh srh ldm yizrm gll orggov uzooh rmgl ozab szyrgh lu gsrmprmt."
+lvla(1, 4) = "Lmob gdl gsrmth ziv rmurmrgv, gsv fmrevihv zmw sfnzm hgfkrwrgb, zmw R'n mlg hfiv zylfg gsv ulinvi."
+lvla(1, 5) = "Ru kvlkov ziv tllw lmob yvxzfhv gsvb uvzi kfmrhsnvmg, zmw slkv uli ivdziw, gsvm dv ziv z hliib olg rmwvvw."
+
+lvlq(2, 1) = "and thus i clothe my naked villainy.with old odd ends,stolen forth of holy writ;and seem a saint,when most i play the devil."
+lvlq(2, 2) = "he who has injured thee was either stronger or weaker than thee.if weaker,then spare him;if stronger,spare thyself."
+lvlq(2, 3) = "you must fight conceit,envy,and every kind of ill-feeling in your heart.the universe seems neither benign nor hostile,merely indifferent."
+lvlq(2, 4) = "i dont have a problem believing in God.But in Genesis one has to wonder about these sentences that just go on and end without finishing."
+lvlq(2, 5) = "dont forget that the only two things people read in a story are the first and last sentences.Give them blood in the eye on the first one."
+
+lvla(2, 1) = "dna suht i ehtolc ym dekan ynialliv.htiw dlo ddo sdne,nelots htrof fo yloh tirw;dna mees a tnias,nehw tsom i yalp eht lived."
+lvla(2, 2) = "eh ohw sah derujni eeht saw rehtie regnorts ro rekaew naht eeht.fi rekaew,neht eraps mih;fi regnorts,eraps flesyht."
+lvla(2, 3) = "uoy tsum thgif tiecnoc,yvne,dna yreve dnik fo lli-gnileef ni ruoy traeh.eht esrevinu smees rehtien ngineb ron elitsoh,ylerem tnereffidni."
+lvla(2, 4) = "i tnod evah a melborp gniveileb ni dog.tub ni siseneg eno sah ot rednow tuoba eseht secnetnes taht tsuj og no dna dne tuohtiw gnihsinif."
+lvla(2, 5) = "tnod tegrof taht eht ylno owt sgniht elpoep daer ni a yrots era eth tsrif dna tsal secnetnes.evig meht doolb ni eht eye no eht tsrif eno."
+
+
+lvlq(3, 1) = "free from gross passion or of mirth or anger constant in spirit,not swerving with the blood."
+lvlq(3, 2) = "garnished and decked in modest compliment,not working with the eye without the ear."
+lvlq(3, 3) = "free from gross passion or of mirth or anger constant in spirit,not swerving with the blood."
+lvlq(3, 4) = "garnished and decked in modest compliment,not working with the eye without the ear."
+lvlq(3, 5) = "free from gross passion or of mirth or anger constant in spirit,not swerving with the blood."
+
+lvla(3, 1) = "reef romf ossgr ionpass ro fo rthmir ro geran antconst ni ritspi, not ingswerv ithw the oodbl."
+lvla(3, 2) = "hedgarnis and keddec ni estmod entcomplim,not ingwork ithw the eye outwith the ear."
+lvla(3, 3) = "reef romf ossgr ionpass ro fo rthmir ro geran antconst ni ritspi, not ingswerv ithw the oodbl."
+lvla(3, 4) = "hedgarnis and keddec ni estmod entcomplim,not ingwork ithw the eye outwith the ear."
+lvla(3, 5) = "reef romf ossgr ionpass ro fo rthmir ro geran antconst ni ritspi, not ingswerv ithw the oodbl."
+
+
+lvlq(4, 1) = "tyeh wlli baerk penas of gsals and ssamh the wwndois of ceachos,and aosl kconk you dnwo wuthoit the ssithgelt comtuncpion.on the cynartro,tyeh wlli rrao whti lruthgea."
+lvlq(4, 2) = "tyeh wlli baerk penas of gsals and ssamh the wwndois of ceachos,and aosl kconk you dnwo wuthoit the ssithgelt comtuncpion.on the cynartro,tyeh wlli rrao whti lruthgea."
+lvlq(4, 3) = "tyeh wlli baerk penas of gsals and ssamh the wwndois of ceachos,and aosl kconk you dnwo wuthoit the ssithgelt comtuncpion.on the cynartro,tyeh wlli rrao whti lruthgea."
+lvlq(4, 4) = "tyeh wlli baerk penas of gsals and ssamh the wwndois of ceachos,and aosl kconk you dnwo wuthoit the ssithgelt comtuncpion.on the cynartro,tyeh wlli rrao whti lruthgea."
+lvlq(4, 5) = "tyeh wlli baerk penas of gsals and ssamh the wwndois of ceachos,and aosl kconk you dnwo wuthoit the ssithgelt comtuncpion.on the cynartro,tyeh wlli rrao whti lruthgea."
+
+lvla(4, 1) = "they will break panes of glass and smash the windows of coaches,and also knock you down without the slightest compunction.on the contrary,they will roar with laughter."
+lvla(4, 2) = "they will break panes of glass and smash the windows of coaches,and also knock you down without the slightest compunction.on the contrary,they will roar with laughter."
+lvla(4, 3) = "they will break panes of glass and smash the windows of coaches,and also knock you down without the slightest compunction.on the contrary,they will roar with laughter."
+lvla(4, 4) = "they will break panes of glass and smash the windows of coaches,and also knock you down without the slightest compunction.on the contrary,they will roar with laughter."
+lvla(4, 5) = "they will break panes of glass and smash the windows of coaches,and also knock you down without the slightest compunction.on the contrary,they will roar with laughter."
+
+
+lvlq(5, 1) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvlq(5, 2) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvlq(5, 3) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvlq(5, 4) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvlq(5, 5) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+
+lvla(5, 1) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvla(5, 2) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvla(5, 3) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvla(5, 4) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones. Almost simultaneously, Jack yelled down to me that there was a warning light on. Fleeting but spectacular sights snapped into ans out of view, the snow, the shower of debris, the moon, looming close and big, the dazzling sunshine for once unfiltered by layers of air.The last twelve hours before re-entry were particular bone-chilling. During this period, I had to go up in to command module. Even after the fiery re-entry splashing down in 81 degrees water in south pacific, we could still see our frosty breath inside the command module."
+lvla(5, 5) = "I felt the wall of the tunnel shiver. The master alarm squealed through my earphones.
